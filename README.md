@@ -6,10 +6,10 @@ We have responses of each employees in the form of dataset with questionnaire as
 
 Being a data analyst we will perform EDA on the data to gain insights on:
 
--Factors influencing the career aspirations of Employees.
--How many employees want to pursue higher education abroad with their investment?
--How likely is an Employee willing to work in on company for 3 years?
--Preferred working environment for Employees.
+- Factors influencing the career aspirations of Employees.
+- How many employees want to pursue higher education abroad with their investment?
+- How likely is an Employee willing to work in on company for 3 years?
+- Preferred working environment for Employees.
 
 
 ## Data
